@@ -1,0 +1,1 @@
+// File test working custom plugin with way 2
